@@ -1,5 +1,8 @@
 # Priority Soft Inventory Management API
 
+## Link to task: 
+https://drive.google.com/file/d/1lCpPItGoyGWJqh26ahDDb9C-oZclALzp/view
+
 ## Setup
 
 1. Clone the repository
