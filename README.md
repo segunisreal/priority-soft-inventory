@@ -1,4 +1,4 @@
-# Store Management API
+# Priority Soft Inventory Management API
 
 ## Setup
 
